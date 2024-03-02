@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying B.E - CSE.<br>I'M INTERSTED IN DEVOPS AND FULL STACK SOFTWARE DEVELOPER.<br>I HAVE MADE MANY PROJECTS IN MY COLLEGE TIME.
+Passionate about coding and problem-solving, I am a dedicated professional with a Computer Science background specializing in full-stack development. With 2 years of hands-on experience during my college days, I have honed my skills and delivered consistent results in both individual and collaborative projects. My adaptability to changing work environments and my commitment to personal growth make me a valuable asset. Excited to make a meaningful impact, I am ready to excel in a dynamic and challenging work environment. Let's connect and create something amazing together! 💻🚀
 
 
 ## 🌐 Socials:
