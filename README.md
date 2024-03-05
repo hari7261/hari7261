@@ -22,6 +22,6 @@ Passionate about coding and problem-solving, I am a dedicated professional with 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hari7261&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hari7261&icon=7&color=1)]((https://github.com/hari7261))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
