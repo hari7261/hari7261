@@ -8,7 +8,8 @@ I’m passionate about coding and constantly learning new technologies to expand
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/hari7261.https://github.com/hari7261)
+![Visitors](https://img.shields.io/badge/Visitors-1000%2B-brightgreen)
+
 
 </p>
 <div size='20px'> Hi! My name is Hariom Pandit. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -88,4 +89,4 @@ I’m passionate about coding and constantly learning new technologies to expand
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align='center'>Github <a href='https://github.com/hari7261'>Hariom Pandit</a> </footer>
