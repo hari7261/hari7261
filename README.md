@@ -1,3 +1,7 @@
+## 👋 Hi there! I'm Hari. 
+
+I’m passionate about coding and constantly learning new technologies to expand my skill set. Whether it's developing innovative backend solutions or exploring new programming paradigms, I enjoy the challenge and excitement that comes with solving complex problems.
+
 ![It's Hari](https://github.com/hari7261/hari7261/blob/main/octocat-1722883658976.png)
 
 
