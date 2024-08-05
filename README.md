@@ -1,56 +1,41 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
   <div id="badges">
-   <a href="https://www.linkedin.com/in/ahlem-laajili/">
+   <a href="https:https://in.linkedin.com/in/hariom-kumar-pandit-2k3">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ahlem.laajili@esprit.tn">
+  <a href="mailto:hari7261@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
+    <img src="https://komarev.com/ghpvc/?username=hari7261&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/hari7261.svg?style=for-the-badge&logo=appveyor">
   </div>
 
 <div>
 <br>
    <a href="https://github.com/hari7261">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Ahlem;Full-Stack+Web+Developer" alt="ahlem-phantom" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Hari;Aspiring+Software+Engineer+%26+Backend+Developer" alt="hari7261" /></a>
 </h1>
 <div align="center">
 
- You have finally found my Github profile. <br>
-Please feel free to clone projects or ask me anything if you think something could be better. <br>
+ Welcome to my GitHub profile! <br>
+Feel free to explore my projects or reach out if you have any questions. <br>
 
 <i>Happy Coding!</i> 😊
 
 </div> 
 
 
-<!--
-**ahlem-phantom/ahlem-phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  ## 🙋‍ About Me 
-- 🎓 Studying Computer Science engineering at <b>ESPRIT Higher School of Engineering</b>
+## 🙋‍ About Me 
+- 🎓 Currently a third-year Computer Science and Engineering student at <b>Excel Engineering College</b>
       
-- 🤔 Exploring new technologies and developing software solutions.
+- 🤔 Passionate about coding and eager to learn new technologies and tools.
     
-- 💜 I am looking forward to learning more about deep learning and training models. Some of my far future projects are an AI Healthcare Assistant that provides face recognition and an Xray Scanner that generates scan results, a program that allocates orders to trucks dynamically e.t.c
+- 💜 Excited to delve deeper into web backend development and explore emerging tech trends. Some of my future goals include working on innovative backend solutions and contributing to impactful projects.
   
-- ✍️ Love to play games and read books.
+- ✍️ Enjoy coding, playing games, and discovering new learning opportunities.
   
-- 📫 How to reach me: <b>ahlem.laajili@esprit.tn </b>
+- 📫 How to reach me: <b>hari7261@example.com</b>
 
   
 ## 🛠 Tech Stack
@@ -62,7 +47,7 @@ Here are some ideas to get you started:
   
 - 🛢   MySQL | MongoDB | PostgreSQL | Oracle
   
-- 🔧  Visual Studio Code | Eclipse | Git | Jupyther Notebook | Intellij IDEA | PyCharm 
+- 🔧  Visual Studio Code | Eclipse | Git | Jupyter Notebook | IntelliJ IDEA | PyCharm 
   
 - 🖥  Canva | Figma | Balsamiq | NextAPP
   
@@ -77,7 +62,7 @@ Here are some ideas to get you started:
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="" alt="express" width="50" height="50"/></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="50" height="50"/></code>
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></code>
@@ -100,50 +85,28 @@ Here are some ideas to get you started:
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/></code>
 </div>
 
-
-<!--
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&column=7&theme=onedark"/>
-</p>
-  -->
-
-<!--
-## 💬 Connect with me ...
-<p align="center">
-<a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  </p>
-  
-  https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
-  -->
 ## 📈 Git Stats ...
   
-  <div align="center">
-  <a href="https://github.com/ahlem-phantom">
+<div align="center">
+  <a href="https://github.com/hari7261">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&locale=en"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hari7261&show_icons=true&locale=en"/>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari7261&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
 </div>
-    <br/> <br/>
-   <div align="center">
-  <a href="https://github.com/ahlem-phantom">
+<br/> <br/>
+<div align="center">
+  <a href="https://github.com/hari7261">
   
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=hari7261"/>
   
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
+  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=hari7261&bc=ebebeb&ic=0E8AD9"/> 
 </div>
-         <br/> <br/>
-     <p align="center">
-    <img width="450" src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=monokai&row=2&column=3" alt="ahlem-phantom" />
-  </p>
-
-      
-     
-
-
-
+<br/> <br/>
+<p align="center">
+    <img width="450" src="https://github-profile-trophy.vercel.app/?username=hari7261&theme=monokai&row=2&column=3" alt="hari7261" />
+</p>
