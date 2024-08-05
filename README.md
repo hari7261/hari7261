@@ -1,27 +1,149 @@
-# 💫 About Me:
-Passionate about coding and problem-solving, I am a dedicated professional with a Computer Science background specializing in full-stack development. With 2 years of hands-on experience during my college days, I have honed my skills and delivered consistent results in both individual and collaborative projects. My adaptability to changing work environments and my commitment to personal growth make me a valuable asset. Excited to make a meaningful impact, I am ready to excel in a dynamic and challenging work environment. Let's connect and create something amazing together! 💻🚀
+<h1 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/ahlem-laajili/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahlem.laajili@esprit.tn">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
+  </div>
+
+<div>
+<br>
+   <a href="https://github.com/hari7261">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Ahlem;Full-Stack+Web+Developer" alt="ahlem-phantom" /></a>
+</h1>
+<div align="center">
+
+ You have finally found my Github profile. <br>
+Please feel free to clone projects or ask me anything if you think something could be better. <br>
+
+<i>Happy Coding!</i> 😊
+
+</div> 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Hariom-Pandit/pfbid02QgJbp7S23WGfGHD1y5YaFXUxDFoqRzGe5Fk4Jo9Lnp7MZdzpYhienHEqM1s6n5Bvl/?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/me_hari3/?igshid=NzZlODBkYWE4Ng%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hariom-kumar-pandit-73081325b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+<!--
+**ahlem-phantom/ahlem-phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hari7261&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hari7261&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hari7261&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Here are some ideas to get you started:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hari7261&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  ## 🙋‍ About Me 
+- 🎓 Studying Computer Science engineering at <b>ESPRIT Higher School of Engineering</b>
+      
+- 🤔 Exploring new technologies and developing software solutions.
+    
+- 💜 I am looking forward to learning more about deep learning and training models. Some of my far future projects are an AI Healthcare Assistant that provides face recognition and an Xray Scanner that generates scan results, a program that allocates orders to trucks dynamically e.t.c
+  
+- ✍️ Love to play games and read books.
+  
+- 📫 How to reach me: <b>ahlem.laajili@esprit.tn </b>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  
+## 🛠 Tech Stack
+- 💻  C | C++ | C# | Java | Python
+  
+- 🌐  HTML | CSS | JavaScript | Bootstrap | jQuery | PHP
+  
+- 🖥️  React | Flask | AngularJS | SpringBoot | Laravel | Symfony | NodeJS | .NET | Django
+  
+- 🛢   MySQL | MongoDB | PostgreSQL | Oracle
+  
+- 🔧  Visual Studio Code | Eclipse | Git | Jupyther Notebook | Intellij IDEA | PyCharm 
+  
+- 🖥  Canva | Figma | Balsamiq | NextAPP
+  
+## 🚀 Languages and Tools ...
+<div align="center">
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="flask" width="50" height="50"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/></code> 
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="" alt="express" width="50" height="50"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="50" height="50"/></code>
 
----
-[![](https://visitcount.itsvg.in/api?id=hari7261&icon=7&color=1)]((https://github.com/hari7261))
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="50" height="50"/></code>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="Centos" alt="Centos" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JetBrains" alt="JetBrains" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/></code>
+</div>
+
+
+<!--
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&column=7&theme=onedark"/>
+</p>
+  -->
+
+<!--
+## 💬 Connect with me ...
+<p align="center">
+<a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  </p>
+  
+  https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
+  -->
+## 📈 Git Stats ...
+  
+  <div align="center">
+  <a href="https://github.com/ahlem-phantom">
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&show_icons=true&locale=en"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
+</div>
+    <br/> <br/>
+   <div align="center">
+  <a href="https://github.com/ahlem-phantom">
+  
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
+  
+  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
+</div>
+         <br/> <br/>
+     <p align="center">
+    <img width="450" src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=monokai&row=2&column=3" alt="ahlem-phantom" />
+  </p>
+
+      
+     
+
+
+
