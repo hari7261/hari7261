@@ -1,4 +1,4 @@
-![It's Hari(octocat-1722883658976.png)
+![It's Hari](https://github.com/hari7261/octocat-1722883658976.png)
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
