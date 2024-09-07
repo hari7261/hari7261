@@ -10,11 +10,6 @@ I’m passionate about coding and constantly learning new technologies to expand
 
 ![Visitors](https://img.shields.io/badge/Visitors-1000%2B-brightgreen)
 
-
-</p>
-<div size='20px'> Hi! My name is Hariom Pandit. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
@@ -54,25 +49,6 @@ I’m passionate about coding and constantly learning new technologies to expand
 <a href = 'https://hari7261.github.io/TechFutureEmpire/index.html'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://hari7261.github.io/Hariom--Portfolio/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/https://github.com/hari7261'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hari7261/hari7261/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/hari7261/hari7261/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/hari7261/hari7261/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
-
-<hr />
-
-![Metrics](https://metrics.lecoq.io/https://github.com/hari7261?template=classic&config.timezone=America%2FToronto)
 
 ## 📈 Git Stats ...
   
