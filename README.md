@@ -1,6 +1,6 @@
-## 👋 Hi there! I'm Hari. 
+## 👋 Hi Developers! I'm Hari. 
 
-I’m passionate about coding and constantly learning new technologies to expand my skill set. Whether it's developing innovative backend solutions or exploring new programming paradigms, I enjoy the challenge and excitement that comes with solving complex problems.
+Greetings! I'm Hariom Kumar, a dedicated aspire software developer striving in coding and project development. I have experience in HTML, CSS, React ,Next and JavaScript and am currently learning backend technologies such as MongoDB, Express, and Node.js in pursuit of being a full-stack software developer. I am interested in artificial intelligence and cloud computing and hope to lead innovative software as a service products in the future. I also enjoy open source projects, and always learning new technologies. 
 
 ![It's Hari](https://github.com/hari7261/hari7261/blob/main/octocat-1722883658976.png)
 
