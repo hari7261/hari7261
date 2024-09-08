@@ -17,13 +17,13 @@ Greetings! I'm Hariom Kumar, a dedicated aspire software developer striving in c
 
 - 🔭 I’m currently studying in third-year Computer Science and Engineering student at Excel Engineering College
 
-- 🌱 I’m currently learning back and technologies like Mongodb, express js and node js. and (practicing data structure)
+- 🌱 I’m currently learning back-end  technologies like Mongodb, express js and node js. and (practicing data structure)
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> Skills </h2>
 <a href= https://github.com/https://github.com/hari7261?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/hari7261?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/hari7261?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
