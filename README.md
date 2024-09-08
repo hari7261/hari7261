@@ -15,9 +15,9 @@ Greetings! I'm Hariom Kumar, a dedicated aspire software developer striving in c
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on third-year Computer Science and Engineering student at Excel Engineering College
+- 🔭 I’m currently studying in third-year Computer Science and Engineering student at Excel Engineering College
 
-- 🌱 I’m currently learning Data Science, AWS, Data Engineering front-end and back-end web development, java. 
+- 🌱 I’m currently learning back and technologies like Mongodb, express js and node js. and (practicing data structure)
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
