@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariom</h1>
 <h3 align="center">A Aspiring Software developer with full-stack approach currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
-![Animated GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+<img src="https://profile-counter.glitch.me/{hari7261}/count.svg" alt="hari7261 :: Visitor's Count" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=0e75b6&style=flat" alt="hari7261" /> </p>
 
