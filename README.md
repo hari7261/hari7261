@@ -51,6 +51,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari7261&show_icons=true&locale=en" alt="hari7261" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari7261&" alt="hari7261" /></p>
+<img src="https://myreadme.vercel.app/api/embed/hari7261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <footer align='center'>Github <a href='https://github.com/hari7261'>Hariom Pandit</a> </footer>
