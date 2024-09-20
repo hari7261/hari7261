@@ -53,6 +53,8 @@
 
 <img src="https://myreadme.vercel.app/api/embed/hari7261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+# Hariom Kumar Pandit's Portfolio
+
 <button onclick="document.getElementById('projects').style.display='block'">Click to See My Projects</button>
 
 <div id="projects" style="display:none;">
@@ -113,7 +115,6 @@
     Robust e-commerce platform with custom features and integrations.  
     **Tech Stack**: React, Node.js, MongoDB, Stripe API
 </div>
-
 
 
 
