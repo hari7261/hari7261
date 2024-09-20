@@ -53,116 +53,67 @@
 
 <img src="https://myreadme.vercel.app/api/embed/hari7261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-## Know More About Me
+<button onclick="document.getElementById('projects').style.display='block'">Click to See My Projects</button>
 
-<button onclick="document.getElementById('about-me').style.display='block'">Click to Know Me</button>
+<div id="projects" style="display:none;">
+  ## Know More About Me
 
-<div id="about-me" style="display:none;">
   I am a passionate and dedicated **full-stack web developer** and **coding enthusiast** currently pursuing a **B.Tech in Computer Science** at **Excel Engineering College**. My journey in technology is fueled by a deep interest in creating impactful software solutions that are efficient and user-friendly.
 
   I specialize in **front-end development**, with a strong command of **HTML, CSS, and JavaScript**. I'm constantly expanding my knowledge, recently diving deeper into **React** and **Next.js** to build more dynamic and responsive web applications. On the **backend**, I am honing my skills in **Node.js**, **Express**, and **MongoDB**, aiming to become a well-rounded full-stack developer.
 
   ### Key Projects:
-  - I’ve built a **GitHub Profile Finder**, which allows users to easily search and display GitHub profiles using JavaScript.
-  - Another project, **Foodie-recipe.io**, showcases my expertise in **React** and demonstrates how I can create practical, engaging web applications.
-  - I’ve also developed smaller applications like a **Tic-Tac-Toe game** and a **calculator**, which highlight my interest in both the creative and functional aspects of coding.
+  - **GitHub Profile Finder**: Discover and Explore GitHub Users  
+    Built with **Next.js** and leveraging **GitHub API**, this tool allows seamless search and detailed display of GitHub profiles. Deployed on Vercel for scalability.  
+    **[Live Demo](#)**
 
-  ### Professional Experience:
-  In terms of work experience, I’ve interned as a **Full Stack Developer** at **Bharat Intern**, where I collaborated on building and maintaining web applications, focusing on **SQL databases** and **JavaScript** for functionality. This role gave me hands-on experience in the full development cycle, from planning to deployment.
+  - **MY-PYTHON-PROJECTS**:  
+    A diverse collection of Python projects showcasing various algorithms, data structures, and small applications. Ideal for beginners and enthusiasts to explore Python programming.  
+    **[GitHub](#)**
 
-  ### Skills & Collaboration:
-  I'm proficient in multiple programming languages, including **Python**, **Java**, and **C++**, and have a growing interest in **DevOps** and **cloud computing**. I enjoy collaborating with other developers on **open-source projects** and love solving complex problems through strategic thinking and teamwork.
+  - **Modern React Portfolio**:  
+    A sleek, modern portfolio website created using React, CSS, and JavaScript. Features include a responsive design and an elegant interface to showcase skills and projects.  
+    **[GitHub](#)**
 
-  ### Future Goals:
-  Currently, I’m sharpening my backend skills, particularly in **API integration** and **cloud technologies**, as I aim to create scalable applications. My long-term goal is to work on **AI-powered** platforms and **cloud-based solutions**, contributing to large-scale innovations in the tech space.
+  - **Foodie Recipe.io**:  
+    A recipe-sharing platform for food enthusiasts. Built using React.js and API integration, it offers a user-friendly interface to discover, share, and submit recipes.  
+    **[GitHub](#)**
+
+  - **Tic-Tac-Toe Game**:  
+    A browser-based Tic-Tac-Toe game offering both single-player and multiplayer modes. Designed with HTML, CSS, and JavaScript for a simple yet interactive experience.  
+    **[GitHub](#)**
+
+  - **TechFutureEmpire**:  
+    A platform for discussing and sharing insights on future technology trends and innovations. Built using HTML, CSS, and JavaScript.  
+    **[GitHub](#)**
+
+  - **Connect-4 Game**:  
+    A classic Connect-4 game implemented for web browsers, allowing players to enjoy this traditional game in a digital format. Developed using HTML, CSS, and JavaScript.  
+    **[GitHub](#)**
+
+  - **Hariom's Portfolio**:  
+    A personal portfolio showcasing web development skills, projects, and experiences. Built with HTML, CSS, and JavaScript, offering a responsive and visually appealing design.  
+    **[GitHub](#)**
+
+  - **CodeVision**:  
+    A team-based project portfolio site highlighting various projects by the CodeVision team, featuring member profiles, skills, certifications, and more. Built with HTML, CSS, and JavaScript.  
+    **[GitHub](#)**
+
+  ### Upcoming Projects
+
+  - **CloudFlow**:  
+    A SaaS project management tool with AI-powered insights.  
+    **Tech Stack**: React, Node.js, MongoDB, AWS
+
+  - **DevOps Platform**:  
+    A Platform-as-a-Service (PaaS) solution for streamlined development and deployment.  
+    **Tech Stack**: Docker, Kubernetes, Jenkins, Go
+
+  - **E-commerce Engine**:  
+    Robust e-commerce platform with custom features and integrations.  
+    **Tech Stack**: React, Node.js, MongoDB, Stripe API
 </div>
 
----
-
-## Projects I'm Proud Of
-
-### [GitHub Profile Finder: Discover and Explore GitHub Users](#)
-A powerful tool built with **Next.js** and the **GitHub API** to seamlessly search for GitHub users and display detailed profiles. The application is deployed on **Vercel** for enhanced scalability and performance.
-- **Tech Stack**: Next.js, GitHub API, JavaScript
-- [Live Demo](#)
-
----
-
-### [MY-PYTHON-PROJECTS](#)
-A curated collection of Python projects showcasing a wide range of algorithms, data structures, and small applications. It's perfect for beginners and enthusiasts to explore **Python programming**.
-- **Tech Stack**: Python, Algorithms, Data Structures
-- [GitHub](#)
-
----
-
-### [Modern React Portfolio](#)
-A modern, sleek portfolio website showcasing my skills and projects. Built with **React**, **CSS**, and **JavaScript**, it features a responsive design for an elegant, user-friendly experience.
-- **Tech Stack**: React, JavaScript, CSS
-- [GitHub](#)
-
----
-
-### [Foodie Recipe.io](#)
-A **recipe-sharing platform** built using **React.js** and API integration, allowing food enthusiasts to discover, share, and submit recipes. The platform offers a seamless, user-friendly interface for a smooth browsing experience.
-- **Tech Stack**: React.js, API Integration
-- [GitHub](#)
-
----
-
-### [Tic-Tac-Toe Game](#)
-A browser-based **Tic-Tac-Toe game** offering both single-player and multiplayer modes. Designed using **HTML**, **CSS**, and **JavaScript**, it provides a fun and interactive experience.
-- **Tech Stack**: HTML, CSS, JavaScript
-- [GitHub](#)
-
----
-
-### [TechFutureEmpire](#)
-A platform dedicated to discussing and sharing insights on future technology trends and innovations. Built using **HTML**, **CSS**, and **JavaScript**, it fosters a community of tech enthusiasts.
-- **Tech Stack**: HTML, CSS, JavaScript
-- [GitHub](#)
-
----
-
-### [Connect-4 Game](#)
-A digital version of the classic **Connect-4 game** for web browsers, built using **HTML**, **CSS**, and **JavaScript**. It offers an engaging and nostalgic gaming experience.
-- **Tech Stack**: HTML, CSS, JavaScript
-- [GitHub](#)
-
----
-
-### [Hariom's Portfolio](#)
-A personal portfolio showcasing my web development skills, experiences, and projects. It’s built with **HTML**, **CSS**, and **JavaScript**, featuring a visually appealing, responsive design.
-- **Tech Stack**: HTML, CSS, JavaScript
-- [GitHub](#)
-
----
-
-### [CodeVision](#)
-A team-based project portfolio website highlighting the collaborative efforts of the **CodeVision** team. The site features individual profiles, skills, certifications, and more.
-- **Tech Stack**: HTML, CSS, JavaScript
-- [GitHub](#)
-
----
-
-## Upcoming Projects
-
-### CloudFlow
-A **SaaS project management tool** powered by AI insights, enabling businesses to track, manage, and improve workflows.
-- **Tech Stack**: React, Node.js, MongoDB, AWS
-
----
-
-### DevOps Platform
-A **Platform-as-a-Service (PaaS)** solution focused on streamlining development and deployment workflows. It integrates seamlessly with modern DevOps tools.
-- **Tech Stack**: Docker, Kubernetes, Jenkins, Go
-
----
-
-### E-commerce Engine
-A robust **e-commerce platform** featuring custom features and third-party integrations for an optimized shopping experience.
-- **Tech Stack**: React, Node.js, MongoDB, Stripe API
-
----
 
 
 
