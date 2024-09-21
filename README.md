@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Hii+there!+I+am+Hariom%2C+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
 
-<h3 align="center">A Aspiring Software developer with full-stack approach currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
+<h3 align="center">Hey there i am Hariom! Currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
 <img src="https://profile-counter.glitch.me/{hari7261}/count.svg" alt="hari7261 :: Visitor's Count" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=0e75b6&style=flat" alt="hari7261" /> </p>
