@@ -1,43 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1500&width=1000&lines=Hii+there!+I+am+Hariom%2C+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
-<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
-  <symbol id="s-text">
-    <text text-anchor="middle" x="50%" y="50%" dy=".35em" class="text">HELLO</text>
-  </symbol>
-
-  <g class="g-ants">
-    <use xlink:href="#s-text" class="text-copy"></use>
-    <use xlink:href="#s-text" class="text-copy"></use>
-    <use xlink:href="#s-text" class="text-copy"></use>
-    <use xlink:href="#s-text" class="text-copy"></use>
-    <use xlink:href="#s-text" class="text-copy"></use>
-  </g>
-
-  <style>
-    .text {
-      font-family: 'Orbitron', sans-serif;
-      font-size: 100px;
-      fill: none;
-      stroke-width: 2;
-      stroke-linejoin: round;
-    }
-
-    .g-ants {
-      animation: stroke-offset 10s infinite linear;
-    }
-
-    .text-copy {
-      stroke: #00ffea;
-      stroke-dasharray: 5;
-    }
-
-    @keyframes stroke-offset {
-      100% {
-        stroke-dashoffset: -1000;
-      }
-    }
-  </style>
-</svg>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 
 <h3 align="center">Hey there i am Hariom! Currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
 <img src="https://profile-counter.glitch.me/{hari7261}/count.svg" alt="hari7261 :: Visitor's Count" />
