@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=32&pause=1000&color=00FFCC&center=true&width=700&lines=Hi+there+%F0%9F%91%8B+I+am+Hariom+an+Aspiring+Software+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=00FFCC&center=true&width=1110&lines=Hi+there+%F0%9F%91%8B+I+am+Hariom,+an+Aspiring+Software+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 <h3 align="center">Hey there i am Hariom! Currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
 <img src="https://profile-counter.glitch.me/{hari7261}/count.svg" alt="hari7261 :: Visitor's Count" />
