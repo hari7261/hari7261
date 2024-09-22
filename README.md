@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1500&width=1000&lines=Hii+there!+I+am+Hariom%2C+an+aspiring+software+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1500&color=000000&center=true&vCenter=true&width=1000&height=80&lines=Hi+there!+I+am+Hariom%2C+an+aspiring+software+developer.)](https://git.io/typing-svg)
 
 
 <h3 align="center">Hey there i am Hariom! Currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
