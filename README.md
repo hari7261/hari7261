@@ -2,7 +2,6 @@
 
 <h3 align="center">Hey there i am Hariom! Currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
 <img src="https://profile-counter.glitch.me/{hari7261}/count.svg" alt="hari7261 :: Visitor's Count" />
-![Visitor Count](https://profile-counter.glitch.me/hari7261/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=0e75b6&style=flat" alt="hari7261" /> </p>
 
