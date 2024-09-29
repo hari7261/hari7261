@@ -52,6 +52,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari7261&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari7261&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari7261&theme=github_dark&utcOffset=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hari7261&theme=whatsapp-dark2&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=300)](https://git.io/streak-stats)
 
 
 
