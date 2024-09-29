@@ -7,30 +7,47 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari7261" alt="hari7261" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hari_om_pandit" target="blank"><img src="https://img.shields.io/twitter/follow/hari_om_pandit?logo=twitter&style=for-the-badge" alt="hari_om_pandit" /></a> </p>
+---
+### 🚀 About Me
+I specialize in **Back-end development**, utilizing cutting-edge technologies like **Node.js, Express.js, MongoDB**, and other modern frameworks. I'm passionate about creating scalable and robust backend systems.
 
-- 🔭 I’m currently working on **Back-end like express js, mongoDB, nodejs, and more new modern framworks and technologies.**
+### 🌱 Currently Exploring
+- Learning and building project's using **MongoDB, Express.js, Node.js**, and diving deep into **AI API Integration**, **SaaS/PaaS** architectures.
+- Always on the lookout for **innovative tools and new tech trends** to elevate my full-stack development game.
 
-- 🌱 I’m currently learning **MongoDB, Express.js, Node.js, AI APIs Intigration, SaaS, PaaS and new technologies**
+### 🤝 Open for Collaboration
+- Interested in collaborating on **Open Source Projects**, **Tech Blogs**, and **Freelance Projects**.  
+  Check out my latest articles: [Tech Blogs](https://tech-blogs-gray.vercel.app/)
 
-- 👯 I’m looking to collaborate on [Open Source Projects, Tech Articles, Freelancing Opportunities](https://tech-blogs-gray.vercel.app/)
+### 💡 Looking For
+- Guidance and insights on **Backend technologies** as I evolve into a **Full-Stack Developer**.
 
-- 🤝 I’m looking for help with **Backend technologies as he continues his journey toward becoming a full-stack developer**
+### 💻 Projects & Portfolio
+Explore my projects and development journey: [My Portfolio](https://hariom-portfolio-amber.vercel.app/home)
 
-- 👨‍💻 All of my projects are available at [https://hariom-portfolio-amber.vercel.app/home](https://hariom-portfolio-amber.vercel.app/home)
+### ✍️ Tech Writing
+I frequently write Blogs to share my learnings and insights.  
+Read my Blogs: [Tech Blogs](https://tech-blogs-gray.vercel.app/)
 
-- 📝 I regularly write articles on [https://tech-blogs-gray.vercel.app/](https://tech-blogs-gray.vercel.app/)
+### 🛠️ Ask Me About
+If you need advice or have questions on:
+- **React, HTML, Bootstrap, Next.js**
+- **Open-source projects**
+- **Overcoming technical challenges**
+- **Contributing to development communities**
 
-- 💬 Ask me about **react, html, bootstraps, next, open-source projects, technical obstacles, contributions.**
+Feel free to connect and let's exchange ideas!
 
-- 📫 How to reach me **hariompandit5556@gmail.com**
+### 📬 Reach Me
+Got an opportunity or just want to say hi? Drop me an email at **hariompandit5556@gmail.com**
 
-- 📄 Know about my experiences [https://hariom-portfolio-amber.vercel.app/home](https://hariom-portfolio-amber.vercel.app/home)
+### 📄 Know My Journey
+Learn more about my experiences and background: [Portfolio](https://hariom-portfolio-amber.vercel.app/home)
 
-- ⚡ Fun fact **I don't how i am curious to learn about technologies.**
+### ⚡ Fun Fact
+I can’t explain it, but my curiosity for learning new technologies knows no bounds!
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
