@@ -12,11 +12,11 @@
 
 ## 🚀 **About Me**
 
-### I am an **Aspiring Software Developer** | **Tech Enthusiast** | **Open Source Contributor** | **Back-end Developer** | **Front-end Developer**
+Aspiring Software Developer, currently pursuing a B.E in Computer Science at Excel Engineering College(3rd year). With a well foundation in modern web development, Constantly doing projects and exploration to stay proficient in both front-end and back-end technologies including React, Next, Node.js, MongoDB, Python, Git, and JavaScript. I’m also passionate about Cloud computing and AI, and project management, with a vision of leading impactful projects in the tech industry.
 
-As a third-year student pursuing a Bachelor of Technology in Computer Science, I am passionate about becoming a skilled software developer. I am committed to building **scalable, high-performance systems** using technologies like **Node.js, Express.js**, and **MongoDB**. My focus is on delivering robust solutions that enhance efficiency and leverage the latest tools in both backend and front-end development.
+To strengthen my skills, I actively engage in personal projects, contribute to open-source initiatives, and participate in coding challenges. 
 
-To strengthen my skills, I actively engage in personal projects, contribute to open-source initiatives, and participate in coding challenges. I believe that continuous learning and collaboration within tech communities will equip me with the knowledge and experience necessary for a successful career in software development.
+I believe that continuous learning and collaboration within tech communities will equip me with the knowledge and experience necessary for a successful career in software development.
 
 ---
 
