@@ -108,6 +108,7 @@ I’m endlessly curious about learning new technologies – my passion for tech 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari7261&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari7261&theme=github_dark&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hari7261&theme=whatsapp-dark2&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=350)](https://git.io/streak-stats)
+[![Hariom Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hari7261&bg_color=0d0d0d&color=06fe65&line=04ff00&point=00b33e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
