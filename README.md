@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=0e75b6&style=flat" alt="hari7261" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari7261" alt="hari7261" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hari7261&no-frame=true&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/hari_om_pandit" target="blank"><img src="https://img.shields.io/twitter/follow/hari_om_pandit?logo=twitter&style=for-the-badge" alt="hari_om_pandit" /></a> </p>
 
