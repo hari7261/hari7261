@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=00FFCC&center=true&width=1110&lines=Hi+there+%F0%9F%91%8B+I+am+Hariom,+an+Aspiring+Software+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+%F0%9F%92%9C)](https://git.io/typing-svg)
-
-<h3 align="center">Currently pursuing a Bachelor of Technology in Computer Science at Excel Engineering College, Namakkal, expected to graduate in 2026</h3>
+![](https://github.com/hari7261/hari7261/blob/main/Purple%20and%20White%20Sporty%20Gaming%20Youtube%20Thumbnail.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=0e75b6&style=flat" alt="hari7261" /> </p>
 
