@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hari7261/hari7261/blob/main/github-header-image%20(1).png" alt="Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/hari7261/hari7261/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px;">
   
   <h2 style="font-size: 1.5em; margin: 20px 0; color: #333;">⚡ Aspiring <strong>Full-Stack Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡</h2>    
 
