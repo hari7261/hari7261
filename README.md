@@ -14,7 +14,7 @@
   </div>
 </div>
 
-
+[![Hackoctober - holopins bàdges.](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
 
 
 ### 👾 **About Me**  
