@@ -18,7 +18,7 @@
 
 
 ### 👾 **About Me**  
-I’m Hariom Kumar Pandit, a **3rd-year Computer Science Engineering** student at **Excel Engineering College** with a passion for **software development** and emerging technologies like **AI** and **Cloud Computing**. My goal is to build scalable applications that make an impact. 🚀
+Currently I'm in **3rd-year in Computer Science Engineering** at **Excel Engineering College** with a passion for **software development** and emerging technologies like **AI** and **Cloud Computing**. My goal is to build scalable applications that make an impact. 🚀
 
 ---
 
