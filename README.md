@@ -25,7 +25,7 @@ Currently I'm in **3rd-year in Computer Science Engineering** at **Excel Enginee
 ### 🔭 **Current Focus:**
 I'm diving into:
 - **Full-Stack Development** using **MERN Stack** ⚙️
-- **AI API Integrations** 🤖
+- **DevOps Integrations** 🤖
 - **Cloud Architecture** with SaaS/PaaS models ☁️
 - Always exploring **innovative tools** and tech trends to stay ahead! 💡
 
