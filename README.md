@@ -63,13 +63,31 @@ Want to connect? Let’s build something cool together! 💬
 ---
 
 
-## 🚀 **Projects & Portfolio**
+### 🚀 Featured Projects  
 
-Check out my featured projects:  
-1. **GitHub Profile Finder** – Explore any GitHub profile seamlessly with **Next.js** and **GitHub API**.  
-2. **Modern React Portfolio** – A sleek portfolio built using **React** and **CSS**.  
-3. **Foodie Recipe.io** – Share and discover new recipes with **React.js**.
+- **📊 GitHub Wrapped**  
+  Visualize your GitHub stats for the year! Built with **Next.js** & **GitHub API**.  
 
+- **☁️ AdvancedWeatherApp**  
+  Real-time weather forecasts, news, and updates in a sleek web app. **JavaScript**  
+
+- **🤖 GenAI-Bot**  
+  A smart and fun AI chatbot with **TypeScript**.  
+
+- **💼 Hariom-Tech-Portfolio**  
+  My portfolio built with **Next.js**, **Tailwind CSS**, and **MDX**.  
+
+- **📝 Resume Builder**  
+  Create professional resumes with this simple **JavaScript** tool.  
+
+- **🌦️ GUI-WeatherPy**  
+  Desktop weather app using Python's **Tkinter** and OpenWeatherMap API.  
+
+- **🧮 Calculator-ReactNative**  
+  A cross-platform calculator app built with **React Native**.
+
+- ***And more are there inside the repository***.
+  
 [**View My Projects**](https://hariom-portfolio-amber.vercel.app/home) | [**Tech Blogs**](https://tech-blogs-gray.vercel.app/)
 
 ---
