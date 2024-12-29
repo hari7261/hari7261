@@ -62,6 +62,14 @@ Want to connect? Let’s build something cool together! 💬
 
 ---
 
+### 🌐 **Top Languages**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari7261&layout=compact&theme=radical&langs_count=10&hide=css,html&exclude_repo=example-repo" alt="Top Languages" />
+</p>
+
+---
+
 
 ### 🚀 Featured Projects  
 
