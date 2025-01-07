@@ -96,7 +96,7 @@ Want to connect? Let’s build something cool together! 💬
 
 - ***And more are there inside the repository***.
   
-[**View My Projects**](https://hariom-portfolio-amber.vercel.app/home) | [**Tech Blogs**](https://tech-blogs-gray.vercel.app/)
+[**View My Projects**](https://devshowcase-three.vercel.app/) | [**Tech Blogs**](https://tech-blogs-gray.vercel.app/)
 
 ---
 
