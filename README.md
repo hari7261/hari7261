@@ -102,7 +102,7 @@ Want to connect? Let’s build something cool together! 💬
 </p>
 
 ---
-## Most Used Programming Languages
+## Stats
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari7261&theme=midnight-purple&hide_border=true)](https://github.com/hari7261/github-readme-stats)
