@@ -90,9 +90,11 @@ Want to connect? Let’s build something cool together! 💬
 
 ### 🧠 **Currently Learning**
 
-- 🔥 **AI API Integration**  
-- ☁️ **Cloud Solutions** and SaaS Models  
+- 🔥 **AI Agents**  
+- ☁️ **Cloud Solutions** and ML  
 - 🛠️ Building **scalable web apps** with modern frameworks like **Next.js** and **Node.js**.
+- 🛠️ Building tools in python and implementing Machine Learning techniques.
+- 🧠 Also building more strong and impactfull projects using **AI tools**.
 
 ---
 
