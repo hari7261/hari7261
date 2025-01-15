@@ -1,24 +1,23 @@
 <div align="center">
   <img src="https://github.com/hari7261/hari7261/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px;">
   
-  <h2 style="font-size: 1.5em; margin: 20px 0; color: #333;">⚡ Aspiring <strong>Full-Stack Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡</h2>    
+  <h2 style="font-size: 1.5em; margin: 20px 0; color: #9a6fc4;">⚡ Aspiring <strong>Full-Stack Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡</h2>    
 
   <div style="display: flex; justify-content: center; align-items: center; margin: 10px 0;">
-    <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" style="margin-right: 10px;">  
+    <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=7a4f8f&style=flat" alt="Profile Views" style="margin-right: 10px;">  
     <a href="https://twitter.com/hari_om_pandit">
-      <img src="https://img.shields.io/twitter/follow/hari_om_pandit?style=social" alt="Twitter Badge" style="margin-right: 10px;">
+      <img src="https://img.shields.io/twitter/follow/hari_om_pandit?style=social&color=7a4f8f" alt="Twitter Badge" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/hari7261">
-      <img src="https://img.shields.io/github/followers/hari7261?label=Follow&style=social" alt="GitHub Followers">
+      <img src="https://img.shields.io/github/followers/hari7261?label=Follow&style=social&color=7a4f8f" alt="GitHub Followers">
     </a>
   </div>
 </div>
 
-[![Hackoctober - holopins bàdges.](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
-
+[![Hackoctober - holopins badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
 
 ### 👾 **About Me**  
-Currently I'm in **3rd-year in Computer Science Engineering** at **Excel Engineering College** with a passion for **software development** and emerging technologies like **AI** and **Cloud Computing**. My goal is to build scalable applications that make an impact. 🚀
+Currently, I'm in **3rd-year in Computer Science Engineering** at **Excel Engineering College** with a passion for **software development** and emerging technologies like **AI** and **Cloud Computing**. My goal is to build scalable applications that make an impact. 🚀
 
 ---
 
@@ -44,104 +43,23 @@ Want to connect? Let’s build something cool together! 💬
 ## 🛠️ **Tech Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF6F61?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-5D82E8?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN-00B140?style=flat&logo=mern&logoColor=white" />
-  <img src="https://img.shields.io/badge/MEAN-00B140?style=flat&logo=mean&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-7a4f8f?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-7a4f8f?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-7a4f8f?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-7a4f8f?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-7a4f8f?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-7a4f8f?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-7a4f8f?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-7a4f8f?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-7a4f8f?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-7a4f8f?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-7a4f8f?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-7a4f8f?style=flat&logo=mern&logoColor=white" />
+  <img src="https://img.shields.io/badge/MEAN-7a4f8f?style=flat&logo=mean&logoColor=white" />
 </p>
 
-
 ---
-## Most Used Programming Languages
-
-<div align="center">
-  <div id="chart-container">
-    <canvas id="languageChart"></canvas>
-  </div>
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<script>
-  // Fetch GitHub data using GitHub API
-  async function fetchGitHubData() {
-    const username = 'hari7261'; // Replace with your GitHub username
-    const url = `https://api.github.com/users/${username}/repos`;
-
-    try {
-      const response = await axios.get(url);
-      const repos = response.data;
-
-      // Count languages
-      const languageCount = {};
-      repos.forEach(repo => {
-        if (repo.language) {
-          languageCount[repo.language] = (languageCount[repo.language] || 0) + 1;
-        }
-      });
-
-      // Sort languages by count
-      const sortedLanguages = Object.entries(languageCount).sort((a, b) => b[1] - a[1]);
-      const topLanguages = sortedLanguages.slice(0, 5); // Top 5 languages
-
-      // Prepare data for Chart.js
-      const labels = topLanguages.map(lang => lang[0]);
-      const data = topLanguages.map(lang => lang[1]);
-
-      // Render the chart
-      renderChart(labels, data);
-    } catch (error) {
-      console.error('Error fetching GitHub data:', error);
-    }
-  }
-
-  // Render the pie chart using Chart.js
-  function renderChart(labels, data) {
-    const ctx = document.getElementById('languageChart').getContext('2d');
-    new Chart(ctx, {
-      type: 'pie',
-      data: {
-        labels: labels,
-        datasets: [{
-          data: data,
-          backgroundColor: [
-            '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF'
-          ],
-          hoverOffset: 20
-        }]
-      },
-      options: {
-        responsive: true,
-        animation: {
-          animateScale: true,
-          animateRotate: true
-        }
-      }
-    });
-  }
-
-  // Fetch data and render chart
-  fetchGitHubData();
-</script>
-
-<style>
-  #chart-container {
-    width: 50%;
-    margin: 0 auto;
-  }
-</style>
-
-
-### 🚀 Featured Projects  
+### 🚀 **Featured Projects**  
 
 - **📊 GitHub Wrapped**  
   Visualize your GitHub stats for the year! Built with **Next.js** & **GitHub API**.  
@@ -180,8 +98,17 @@ Want to connect? Let’s build something cool together! 💬
 
 ## 🏆 **Achievements**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari7261&no-frame=true&column=8&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Issues,Followers,Experience&theme=dracula" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hari7261&no-frame=true&column=8&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Issues,Followers,Experience&theme=midnight-purple" alt="Trophies" />
 </p>
+
+---
+## Most Used Programming Languages
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari7261&theme=midnight-purple&hide_border=true)](https://github.com/hari7261/github-readme-stats)
+![Hariom GitHub stats](https://github-readme-stats.vercel.app/api?username=hari7261&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&hide_border=true)
+
+</div>
 
 ---
 
@@ -198,21 +125,14 @@ Want to connect? Let’s build something cool together! 💬
 
 ---
 
-## 📈 **GitHub Stats**  
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari7261&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari7261&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari7261&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari7261&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari7261&theme=radical&utcOffset=8" />
-</p>
 
----
 
 <div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hari7261&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hari7261&theme=tokyonight&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=350)](https://git.io/streak-stats)  
-[![Hariom's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari7261&bg_color=0d0d0d&color=06fe65&line=04ff00&point=00b33e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+[![Hariom's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari7261&bg_color=0d0d0d&color=9a6fc4&line=7a4f8f&point=9a6fc4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -223,14 +143,11 @@ I’m always curious about learning new technologies, and my passion for tech gr
 
 ---
 
-<footer align="center" style="padding: 20px; background-color: #333; border-radius: 10px; margin-top: 20px;">
+<footer align="center" style="padding: 20px; background-color: #7a4f8f; border-radius: 10px; margin-top: 20px;">
   <p style="color: white; font-size: 1.2em; margin: 0;">🚀 <strong>Follow Me on GitHub:</strong></p>
-  <a href="https://github.com/hari7261" style="text-decoration: none; color: #61DAFB; font-weight: bold; font-size: 1.5em;">
+  <a href="https://github.com/hari7261" style="text-decoration: none; color: #9a6fc4; font-weight: bold; font-size: 1.5em;">
     <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" style="vertical-align: middle; margin-right: 10px;" />
     Hariom Kumar Pandit
   </a>
   <p style="color: white; font-size: 0.9em; margin-top: 10px;">Made with ❤️ by Hariom Kumar Pandit</p>
 </footer>
-
-
----
