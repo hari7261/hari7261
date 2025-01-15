@@ -61,14 +61,84 @@ Want to connect? Let’s build something cool together! 💬
 
 
 ---
+## Most Used Programming Languages
 
-### 🌐 **Top Languages**  
+<div align="center">
+  <div id="chart-container">
+    <canvas id="languageChart"></canvas>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari7261&layout=compact&theme=radical&langs_count=10&hide=css,html&exclude_repo=example-repo" alt="Top Languages" />
-</p>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+  // Fetch GitHub data using GitHub API
+  async function fetchGitHubData() {
+    const username = 'hari7261'; // Replace with your GitHub username
+    const url = `https://api.github.com/users/${username}/repos`;
 
----
+    try {
+      const response = await axios.get(url);
+      const repos = response.data;
+
+      // Count languages
+      const languageCount = {};
+      repos.forEach(repo => {
+        if (repo.language) {
+          languageCount[repo.language] = (languageCount[repo.language] || 0) + 1;
+        }
+      });
+
+      // Sort languages by count
+      const sortedLanguages = Object.entries(languageCount).sort((a, b) => b[1] - a[1]);
+      const topLanguages = sortedLanguages.slice(0, 5); // Top 5 languages
+
+      // Prepare data for Chart.js
+      const labels = topLanguages.map(lang => lang[0]);
+      const data = topLanguages.map(lang => lang[1]);
+
+      // Render the chart
+      renderChart(labels, data);
+    } catch (error) {
+      console.error('Error fetching GitHub data:', error);
+    }
+  }
+
+  // Render the pie chart using Chart.js
+  function renderChart(labels, data) {
+    const ctx = document.getElementById('languageChart').getContext('2d');
+    new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: labels,
+        datasets: [{
+          data: data,
+          backgroundColor: [
+            '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF'
+          ],
+          hoverOffset: 20
+        }]
+      },
+      options: {
+        responsive: true,
+        animation: {
+          animateScale: true,
+          animateRotate: true
+        }
+      }
+    });
+  }
+
+  // Fetch data and render chart
+  fetchGitHubData();
+</script>
+
+<style>
+  #chart-container {
+    width: 50%;
+    margin: 0 auto;
+  }
+</style>
 
 
 ### 🚀 Featured Projects  
