@@ -84,7 +84,7 @@ Want to connect? Let’s build something cool together! 💬
 </p>
 
 ---
-
+## GitHub Streak Tracker (Current Streak)
 <img src="https://d3frb2mbny706b.cloudfront.net/hari7261" width="600">
 
 ---
