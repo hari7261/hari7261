@@ -110,8 +110,8 @@ Want to connect? Let’s build something cool together! 💬
 
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hari7261&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://d3frb2mbny706b.cloudfront.net/hari7261" width="600">
+
 
   
 [![Hariom's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari7261&bg_color=0d0d0d&color=9a6fc4&line=7a4f8f&point=9a6fc4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
