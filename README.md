@@ -84,6 +84,10 @@ Want to connect? Let’s build something cool together! 💬
 </p>
 
 ---
+
+<img src="https://d3frb2mbny706b.cloudfront.net/hari7261" width="600">
+
+---
 ## Stats
 <div align="center">
   
@@ -110,7 +114,6 @@ Want to connect? Let’s build something cool together! 💬
 
 
 <div align="center">
-<img src="https://d3frb2mbny706b.cloudfront.net/hari7261" width="600">
 
 
   
