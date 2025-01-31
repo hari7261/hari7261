@@ -86,7 +86,7 @@ Want to connect? Let’s build something cool together! 💬
 ## Stats
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari7261&theme=midnight-purple&hide_border=true)](https://github.com/hari7261/github-readme-stats)
+
 ![Hariom GitHub stats](https://github-readme-stats.vercel.app/api?username=hari7261&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&hide_border=true)
 
 </div>
