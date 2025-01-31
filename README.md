@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/hari7261/hari7261/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px;">
   
-  <h2 style="font-size: 1.5em; margin: 20px 0; color: #9a6fc4;">⚡ Aspiring <strong>Full-Stack Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡</h2>    
+  <h2 style="font-size: 1.5em; margin: 20px 0; color: #9a6fc4;">⚡ Aspiring <strong>Software Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡</h2>    
 
   <div style="display: flex; justify-content: center; align-items: center; margin: 10px 0;">
     <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=7a4f8f&style=flat" alt="Profile Views" style="margin-right: 10px;">  
@@ -15,11 +15,6 @@
 </div>
 
 [![Hackoctober - holopins badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
-
-### 👾 **About Me**  
-Currently, I'm in **3rd-year in Computer Science Engineering** at **Excel Engineering College** with a passion for **software development** and emerging technologies like **AI** and **Cloud Computing**. My goal is to build scalable applications that make an impact. 🚀
-
----
 
 ### 🔭 **Current Focus:**
 I'm diving into:
