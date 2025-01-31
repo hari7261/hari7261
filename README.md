@@ -80,7 +80,9 @@ Want to connect? Let’s build something cool together! 💬
 
 ---
 ## GitHub Streak Tracker (Current Streak)
+<div align="center">
 <img src="https://d3frb2mbny706b.cloudfront.net/hari7261" width="600">
+</div>
 
 ---
 ## Stats
