@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://github.com/hari7261/hari7261/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px;">
   
-  <h2 style="font-size: 1.5em; margin: 20px 0; color: #9a6fc4;">⚡ Innovative <strong>Software Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡</h2>    
+  <h2 style="font-size: 1.5em; margin: 20px 0; color: #9a6fc4;">
+    ⚡ Innovative <strong>Software Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡
+  </h2>    
 
   <div style="display: flex; justify-content: center; align-items: center; margin: 10px 0;">
     <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=7a4f8f&style=flat" alt="Profile Views" style="margin-right: 10px;">  
@@ -9,13 +11,20 @@
       <img src="https://img.shields.io/twitter/follow/hari_om_pandit?style=social&color=7a4f8f" alt="Twitter Badge" style="margin-right: 10px;">
     </a>
     <a href="https://github.com/hari7261">
-      <img src="https://img.shields.io/github/followers/hari7261?label=Follow&style=social&color=7a4f8f" alt="GitHub Followers">
+      <img src="https://img.shields.io/github/followers/hari7261?label=Follow&style=social&color=7a4f8f" alt="GitHub Followers" style="margin-right: 10px;">
     </a>
   </div>
 </div>
 
 [![Hackoctober - holopins badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
 
+<div align="center">
+    <a href="https://github.com/hari7261/hari7261/blob/main/HARIOM(RESUME).pdf" target="_blank" style="color: #9a6fc4; font-weight: bold; text-decoration: none; margin-left: 10px;">
+      📄 Resume
+    </a>
+</div>
+
+    
 ### 🔭 **Current Focus:**
 I'm diving into:
 - **Full-Stack Development** using **MERN Stack** ⚙️
