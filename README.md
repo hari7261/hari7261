@@ -24,26 +24,33 @@
     </a>
 </div>
 
-    
-### 🔭 **Current Focus:**
-I'm diving into:
-- **Full-Stack Development** using **MERN Stack** ⚙️
-- **DevOps Integrations** 🤖
-- **Cloud Architecture** with SaaS/PaaS models ☁️
-- Always exploring **innovative tools** and tech trends to stay ahead! 💡
+---
+<div align="center">
+  
+# 🚀 Digital Craftsmanship | My WorkShop
+
+<a href="https://www.dreamsbuilder.tech" target="_blank">
+  <img src="https://www.dreamsbuilder.tech/logo.png" alt="DreamsBuilder.Tech Logo" width="200"/>
+</a>
+
+<br/>
+
+[![Explore My Workshop](https://img.shields.io/badge/ENTER_MY_DIGITAL_WORKSHOP-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dreamsbuilder.tech)
+
+<br/>
+
+```typescript
+interface DigitalExperience {
+  creativity: 'unlocked';
+  functionality: 'optimized';
+  code: 'elegant';
+  design: 'intentional';
+  result: 'visionRealized';
+}
+```
+</div>
 
 ---
-
-### 💡 **Open to Collaborations:**
-🔧 Working on exciting **Open Source Projects**  
-📚 Writing **Tech Blogs** or tutorials  
-🎯 Available for **Freelance Opportunities** and collaborations on **Web Development**
-
-Want to connect? Let’s build something cool together! 💬  
-**Email**: hariompandit5556@gmail.com | [**My Portfolio**](https://hariom-portfolio-amber.vercel.app/home)
-
----
-
 ## 🛠️ **Tech Stack**
 
 <p align="center">
@@ -72,15 +79,6 @@ Want to connect? Let’s build something cool together! 💬
 
 ---
 
-### 🧠 **Currently Learning**
-
-- 🔥 **AI Agents**  
-- ☁️ **Cloud Solutions** and ML  
-- 🛠️ Building **scalable web apps** with modern frameworks like **Next.js** and **Node.js**.
-- 🛠️ Building tools in python and implementing Machine Learning techniques.
-- 🧠 Also building more strong and impactfull projects using **AI tools**.
-
----
 
 ## 🏆 **Achievements**  
 <p align="center">
