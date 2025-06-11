@@ -51,33 +51,27 @@ interface DigitalExperience {
 </div>
 
 ---
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack Explorer**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-7a4f8f?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-7a4f8f?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-7a4f8f?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-7a4f8f?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-7a4f8f?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-7a4f8f?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-7a4f8f?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-7a4f8f?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-7a4f8f?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-7a4f8f?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-7a4f8f?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN-7a4f8f?style=flat&logo=mern&logoColor=white" />
-  <img src="https://img.shields.io/badge/MEAN-7a4f8f?style=flat&logo=mean&logoColor=white" />
-</p>
-
----
-### 🚀 **Featured Projects**  
 <div align="center">
   
-[**View My Projects**](https://devshowcase-three.vercel.app/) | [**Tech Blogs**](https://tech-blogs-gray.vercel.app/)
-
-</div>
+```mermaid
+graph TD
+  A[Frontend] --> B[React]
+  A --> C[Next.js]
+  A --> D[TypeScript]
+  E[Backend] --> F[Node.js]
+  E --> G[Python]
+  H[Infra] --> I[Docker]
+  H --> J[AWS]
+  K[Data] --> L[MongoDB]
+  K --> M[PostgreSQL]
+```
+## ⚡ Powering Digital Experiences With
+<p align="center"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </p></div>
 
 ---
+</div>
 
 
 ## 🏆 **Achievements**  
