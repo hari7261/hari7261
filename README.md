@@ -19,7 +19,7 @@
 [![Hackoctober - holopins badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
 
 <div align="center">
-    <a href="https://drive.google.com/file/d/1qgMBBKtVRqKmAtQSfjwkeyna9KjNZ7L2/view?usp=sharing" target="_blank" style="color: #9a6fc4; font-weight: bold; text-decoration: none; margin-left: 10px;">
+    <a href="https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view?usp=sharing" target="_blank" style="color: #9a6fc4; font-weight: bold; text-decoration: none; margin-left: 10px;">
       📄 Resume
     </a>
 </div>
