@@ -64,6 +64,19 @@ export const MyInfo = {
 
 
 ```
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view" target="_blank">
+  <img
+    src="https://img.shields.io/badge/📄%20View%20My%20Resume-7a4f8f?style=for-the-badge&logo=googledrive&logoColor=white"
+    alt="View Resume Button"
+  />
+</a>
+
+</div>
+
+
 ---
 
 ## 🪪 Badges
