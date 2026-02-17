@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://github.com/hari7261/hari7261/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px;">
-  
-  <h2 style="font-size: 1.5em; margin: 20px 0; color: #9a6fc4;">
-    ⚡ Innovative <strong>Software Developer</strong> | <strong>Open-Source Contributor</strong> | <strong>Tech Enthusiast</strong> ⚡
-  </h2>    
+  <img src="https://github.com/hari7261/hari7261/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px;" />
 
-  <div style="display: flex; justify-content: center; align-items: center; margin: 10px 0;">
-    <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=7a4f8f&style=flat" alt="Profile Views" style="margin-right: 10px;">  
+  <h2>⚡ Gen AI Software Development Engineer | Full-Stack Builder | Open-Source Contributor ⚡</h2>
+
+  <p>
+    I design and ship production-ready AI products with strong engineering fundamentals:
+    <strong>clean architecture</strong>, <strong>reliable APIs</strong>, <strong>evaluation-first development</strong>, and <strong>developer-focused UX</strong>.
+  </p>
+
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=7a4f8f&style=flat" alt="Profile Views" />
     <a href="https://twitter.com/hari_om_pandit">
-      <img src="https://img.shields.io/twitter/follow/hari_om_pandit?style=social&color=7a4f8f" alt="Twitter Badge" style="margin-right: 10px;">
+      <img src="https://img.shields.io/twitter/follow/hari_om_pandit?style=social&color=7a4f8f" alt="Twitter Badge" />
     </a>
     <a href="https://github.com/hari7261">
-      <img src="https://img.shields.io/github/followers/hari7261?label=Follow&style=social&color=7a4f8f" alt="GitHub Followers" style="margin-right: 10px;">
+      <img src="https://img.shields.io/github/followers/hari7261?label=Follow&style=social&color=7a4f8f" alt="GitHub Followers" />
     </a>
   </div>
 </div>
@@ -19,25 +22,39 @@
 [![Hackoctober - holopins badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
 
 <div align="center">
-    <a href="https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view?usp=sharing" target="_blank" style="color: #9a6fc4; font-weight: bold; text-decoration: none; margin-left: 10px;">
-      📄 Resume
-    </a>
+  <a href="https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view?usp=sharing" target="_blank">📄 Resume</a>
 </div>
 
 ---
+
+## 👨‍💻 `whoami`
+
+```ts
+const hariom = {
+  role: 'Gen AI Software Development Engineer',
+  focus: [
+    'LLM-powered applications',
+    'RAG systems with reliable retrieval pipelines',
+    'Scalable backend architecture for AI workloads',
+    'Evaluation, observability, and prompt/version management',
+  ],
+  mission: 'Build AI products that are useful, measurable, and production-grade.',
+};
+```
+
+---
+
+## 🚀 Digital Craftsmanship | My Workshop
+
 <div align="center">
-  
-# 🚀 Digital Craftsmanship | My WorkShop
+  <a href="https://www.dreamsbuilder.tech" target="_blank">
+    <img src="https://www.dreamsbuilder.tech/logo.png" alt="DreamsBuilder.Tech Logo" width="200"/>
+  </a>
 
-<a href="https://www.dreamsbuilder.tech" target="_blank">
-  <img src="https://www.dreamsbuilder.tech/logo.png" alt="DreamsBuilder.Tech Logo" width="200"/>
-</a>
+  <br/>
 
-<br/>
-
-[![Explore My Workshop](https://img.shields.io/badge/ENTER_MY_DIGITAL_WORKSHOP-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dreamsbuilder.tech)
-
-<br/>
+  [![Explore My Workshop](https://img.shields.io/badge/ENTER_MY_DIGITAL_WORKSHOP-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dreamsbuilder.tech)
+</div>
 
 ```typescript
 interface DigitalExperience {
@@ -48,13 +65,38 @@ interface DigitalExperience {
   result: 'visionRealized';
 }
 ```
-</div>
 
 ---
-## 🛠️ **Tech Stack Explorer**
 
-<div align="center">
-  
+## 🧠 Gen AI Engineering Mindset
+
+```python
+class GenAIEngineering:
+    def build(self):
+        return {
+            "problem_first": True,
+            "prompt_plus_system_design": True,
+            "rag_ready_data_layer": True,
+            "eval_driven_iteration": True,
+            "cost_latency_quality_balance": "always",
+            "secure_by_default": True,
+        }
+```
+
+```mermaid
+graph LR
+  A[Product Need] --> B[Data + Context Layer]
+  B --> C[Retrieval / Tools]
+  C --> D[LLM Orchestration]
+  D --> E[Evaluation + Guardrails]
+  E --> F[API + UI Delivery]
+  F --> G[Monitoring + Iteration]
+```
+
+---
+
+## 🛠️ Tech Stack Explorer
+
 ```mermaid
 graph TD
   A[Frontend] --> B[React]
@@ -67,28 +109,42 @@ graph TD
   K[Data] --> L[MongoDB]
   K --> M[PostgreSQL]
 ```
+
 ## ⚡ Powering Digital Experiences With
-<p align="center"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </p></div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 ---
-</div>
 
+## 🏆 Achievements
 
-## 🏆 **Achievements**  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hari7261&no-frame=true&column=8&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Issues,Followers,Experience&theme=midnight-purple" alt="Trophies" />
 </p>
 
 ---
+
 ## GitHub Streak Tracker (Current Streak)
+
 <div align="center">
-<img src="https://d3frb2mbny706b.cloudfront.net/hari7261" width="600">
+  <img src="https://d3frb2mbny706b.cloudfront.net/hari7261" width="600" />
 </div>
 
 ---
+
 ## Stats
+
 <div align="center">
-  
 
 ![Hariom GitHub stats](https://github-readme-stats.vercel.app/api?username=hari7261&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=midnight-purple&hide_border=true)
 
@@ -96,7 +152,8 @@ graph TD
 
 ---
 
-## 🔗 **Let's Connect!**  
+## 🔗 Let's Connect!
+
 <div align="center">
   <a href="https://twitter.com/hari_om_pandit"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/hariom-kumar-pandit-2k3"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -109,20 +166,17 @@ graph TD
 
 ---
 
-
-
 <div align="center">
 
-
-  
 [![Hariom's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari7261&bg_color=0d0d0d&color=9a6fc4&line=7a4f8f&point=9a6fc4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## ⚡ **Fun Fact**  
-I’m always curious about learning new technologies, and my passion for tech grows stronger every day! 😎
+## ⚡ Fun Fact
+
+I enjoy transforming complex AI ideas into practical products people can use every day.
 
 ---
 
