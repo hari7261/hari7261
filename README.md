@@ -1,91 +1,87 @@
 # Hello It's Hari 👋
 
 ```ts
-export const MyInfo = {
+export const profile = {
   name: "Hariom Kumar Pandit",
-  role: "GenAI Software Engineer",
+  title: "GenAI Software Engineer",
+  tagline: "Building real AI features for real users.",
 
   experience: {
-    frontendAndBackend: "2+ years",
-    aiAndAgents: "1+ year"
+    fullStack: "2+ years",
+    aiAndAgents: "1+ years"
   },
 
-  line: "Building real AI features for real users.",
-
-  stack: {
+  techStack: {
     frontend: ["React", "Next.js", "TypeScript"],
     mobile: ["React Native"],
     backend: ["Flask", "Node.js"],
-    database: ["PostgreSQL", "MySQL"],
+    databases: ["PostgreSQL", "MySQL"],
     ai: [
-      "LLM apps",
-      "RAG (search + LLM)",
+      "LLM applications",
+      "RAG (Search + LLM)",
       "AI agents",
-      "multimodal AI"
+      "Multimodal AI"
     ],
-    infra: ["Docker", "AWS"]
+    infrastructure: ["Docker", "AWS"]
   },
 
-  whatIDo: [
-    "build AI features for web and mobile apps",
-    "connect LLMs with real backend systems",
-    "design search + LLM (RAG) pipelines",
-    "build agent workflows with tools"
+  focusAreas: [
+    "Build AI features for web and mobile apps",
+    "Connect LLMs with real backend systems",
+    "Design RAG pipelines",
+    "Build agent workflows with tools"
   ],
 
-  whatIMindInProduction: [
-    "slow responses",
-    "high API cost",
-    "wrong or unstable answers",
-    "LLM failures and retries",
-    "logs and monitoring",
-    "safe fallbacks when AI breaks"
+  productionPriorities: [
+    "Low-latency responses",
+    "API cost control",
+    "Stable and accurate outputs",
+    "LLM failure handling and retries",
+    "Observability and monitoring",
+    "Safe fallbacks when AI workflows fail"
   ],
 
-  beliefs: [
-    "simple systems are easier to run and scale",
-    "LLMs can be wrong — always design for it",
-    "measure quality before adding more prompts or agents"
+  engineeringBeliefs: [
+    "Simple systems are easier to run and scale",
+    "LLMs can be wrong; always design for that",
+    "Measure quality before adding more prompts or agents"
   ],
 
-  currently: [
-    "working on GenAI backend systems",
-    "building AI-first web and mobile apps"
+  currentlyBuilding: [
+    "GenAI backend systems",
+    "AI-first web and mobile applications"
   ],
 
   links: {
     github: "https://github.com/hari7261",
-    site: "https://www.dreamsbuilder.tech",
+    website: "https://www.dreamsbuilder.tech",
     linkedin: "https://linkedin.com/in/hariom-kumar-pandit-2k3",
     resume:
       "https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view"
   }
 } as const;
-
-
 ```
 
 ---
-
-## 🗂️ AUTOMATION + PREMIUM SOFTWARE
+`n## 🗂️ AUTOMATION + PREMIUM SOFTWARE
 
 ### 🔵 INDUS  - THE PREMIUM CRAFTING OF COOL STUFFS.
 > **INDUS** is a personal software brand — a suite of production-grade developer tools and CLI utilities built in Go, Python & TypeScript.
 
-| Repository | Description | Language | Created |
-|---|---|---|---|
-| [INDUS](https://github.com/hari7261/INDUS) | Production-grade interactive terminal for API orchestration, developer tooling, and concurrent workloads | Go | 2026-02-26 |
-| [indus-llm-gateway](https://github.com/hari7261/indus-llm-gateway) | Production-ready LLM gateway — unified OpenAI-compatible API for all providers, embedded dashboard, routing strategies, auth & quotas | Go | 2026-02-28 |
-| [indus-tester](https://github.com/hari7261/indus-tester) | Real performance testing for CI/CD pipelines, staging environments, and load balancer validation | Go | 2026-02-28 |
-| [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and .indus.http files | TypeScript | 2026-02-28 |
-| [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI + GitHub Actions automation that sends daily (Mon–Sat) reminder emails via Gmail SMTP from checklist.md | Go | 2026-03-01 |
+| Repository | Description | Language |
+|---|---|---|
+| [INDUS](https://github.com/hari7261/INDUS) | Production-grade interactive terminal for API orchestration, developer tooling, and concurrent workloads | Go |
+| [indus-llm-gateway](https://github.com/hari7261/indus-llm-gateway) | Production-ready LLM gateway — unified OpenAI-compatible API for all providers, embedded dashboard, routing strategies, auth & quotas | Go |
+| [indus-tester](https://github.com/hari7261/indus-tester) | Real performance testing for CI/CD pipelines, staging environments, and load balancer validation | Go |
+| [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and .indus.http files | TypeScript |
+| [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI + GitHub Actions automation that sends daily (Mon–Sat) reminder emails via Gmail SMTP from checklist.md | Go |
 
 ### 🟣 COLLECTIONS OF COMPONENTS, EXPERIMENTS, TREND AND AI+AUTOMATIONS
 
-| Repository | Description | Language | Created |
-|---|---|---|---|
-| [DocAgentLine](https://github.com/hari7261/DocAgentLine) | AI-powered document agent pipeline | Python | 2026-02-25 |
-| [react-native-reanimated-exampleDemos](https://github.com/hari7261/react-native-reanimated-exampleDemos) | Clean, production-ready React Native animation component library built with react-native-reanimated | TypeScript | 2026-02-20 |
+| Repository | Description | Language |
+|---|---|---|
+| [DocAgentLine](https://github.com/hari7261/DocAgentLine) | AI-powered document agent pipeline | Python |
+| [react-native-reanimated-exampleDemos](https://github.com/hari7261/react-native-reanimated-exampleDemos) | Clean, production-ready React Native animation component library built with react-native-reanimated | TypeScript |
 
 ---
 
@@ -132,11 +128,3 @@ export const MyInfo = {
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Hari GitHub stats](https://github-readme-stats.vercel.app/api?username=hari7261&show_icons=true&theme=midnight-purple&hide_border=true)
-
-</div>
