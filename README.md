@@ -63,7 +63,7 @@ export const profile = {
 ```
 
 ---
-`n## 🗂️ AUTOMATION + PREMIUM SOFTWARE
+## 🗂️ AUTOMATION + PREMIUM SOFTWARE
 
 ### 🔵 INDUS  - THE PREMIUM CRAFTING OF COOL STUFFS.
 > **INDUS** is a personal software brand — a suite of production-grade developer tools and CLI utilities built in Go, Python & TypeScript.
