@@ -67,10 +67,10 @@ export const MyInfo = {
 
 ---
 
-## 🗂️ Recently Created Repositories (Last 10 Days)
+## 🗂️ AUTOMATION + PREMIUM SOFTWARE
 
-### 🔵 INDUS Brand
-> **INDUS** is a personal software brand — a suite of production-grade developer tools and CLI utilities built in Go & TypeScript.
+### 🔵 INDUS  - THE PREMIUM CRAFTING OF COOL STUFFS.
+> **INDUS** is a personal software brand — a suite of production-grade developer tools and CLI utilities built in Go, Python & TypeScript.
 
 | Repository | Description | Language | Created |
 |---|---|---|---|
@@ -80,7 +80,7 @@ export const MyInfo = {
 | [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and .indus.http files | TypeScript | 2026-02-28 |
 | [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI + GitHub Actions automation that sends daily (Mon–Sat) reminder emails via Gmail SMTP from checklist.md | Go | 2026-03-01 |
 
-### 🟣 Other Projects
+### 🟣 COLLECTIONS OF COMPONENTS, EXPERIMENTS, TREND AND AI+AUTOMATIONS
 
 | Repository | Description | Language | Created |
 |---|---|---|---|
