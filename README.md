@@ -63,7 +63,7 @@ export const profile = {
 ```
 
 ---
-`n## 🗂️ AUTOMATION + PREMIUM SOFTWARE
+## 🗂️ AUTOMATION + PREMIUM SOFTWARE
 
 ### 🔵 INDUS  - THE PREMIUM CRAFTING OF COOL STUFFS.
 > **INDUS** is a personal software brand — a suite of production-grade developer tools and CLI utilities built in Go, Python & TypeScript.
@@ -82,6 +82,13 @@ export const profile = {
 |---|---|---|
 | [DocAgentLine](https://github.com/hari7261/DocAgentLine) | AI-powered document agent pipeline | Python |
 | [react-native-reanimated-exampleDemos](https://github.com/hari7261/react-native-reanimated-exampleDemos) | Clean, production-ready React Native animation component library built with react-native-reanimated | TypeScript |
+| [AUTH-CodeFiles](https://github.com/hari7261/AUTH-CodeFiles) | Secure authentication codebase with login, registration, protected routes, and reusable auth utilities. | Python |
+| [GemmaOCR-APP](https://github.com/hari7261/GemmaOCR-APP) | Local OCR and structured text extraction app powered by Gemma-3 vision and Streamlit. | Python |
+| [AgentPodcast-AI](https://github.com/hari7261/AgentPodcast-AI) | Multi-speaker podcast generation system that converts written content into natural-sounding audio. | Python |
+| [World-Time-Traveler](https://github.com/hari7261/World-Time-Traveler) | AI photo transformation app that converts images into historical portraits across multiple eras. | TypeScript |
+| Face_Recognition_Attendance_System_uniface | Private face-recognition attendance system using UniFace (RetinaFace + ArcFace) with a Gradio UI. | Python |
+| [NLP-social-media-Sentiment-Analysis](https://github.com/hari7261/NLP-social-media-Sentiment-Analysis) | AI-driven platform for social-media sentiment and emotional-tone analysis. | Python |
+| [RecruitmentAgent-AI](https://github.com/hari7261/RecruitmentAgent-AI) | AI recruitment workflow tool for resume analysis, automated communication, and interview scheduling. | Python |
 
 ---
 
