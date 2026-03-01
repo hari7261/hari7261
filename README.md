@@ -14,7 +14,7 @@ export const profile = {
   techStack: {
     frontend: ["React", "Next.js", "TypeScript"],
     mobile: ["React Native"],
-    backend: ["Flask", "Node.js"],
+    backend: ["Flask", "Node.js", "python", "Go-lang"],
     databases: ["PostgreSQL", "MySQL"],
     ai: [
       "LLM applications",
@@ -149,15 +149,3 @@ export const profile = {
 |---|---|---|
 | [Hacktoberfest-2025](https://github.com/hari7261/Hacktoberfest-2025) | Open-source learning space for new contributors to practice with real issues, PRs, and community workflows. | TypeScript |
 | [First-OpenSource-Contribution](https://github.com/hari7261/First-OpenSource-Contribution) | Educational repository that teaches the complete contribution flow: fork, branch, commit, and pull request. | HTML |
-
----
-
-## 📚 Most Used Languages (Overall Repositories)
-
-<div align="center">
-
-![Hari most used languages graph](./images/language-usage.svg)
-
-</div>
-
-> Data source: GitHub REST API language byte counts across repositories owned by `hari7261` (forks excluded). Graph background is transparent.
