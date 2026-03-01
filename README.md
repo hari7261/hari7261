@@ -69,13 +69,21 @@ export const MyInfo = {
 
 ## 🗂️ Recently Created Repositories (Last 10 Days)
 
+### 🔵 INDUS Brand
+> **INDUS** is a personal software brand — a suite of production-grade developer tools and CLI utilities built in Go & TypeScript.
+
 | Repository | Description | Language | Created |
 |---|---|---|---|
-| [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI + GitHub Actions automation that sends daily (Mon–Sat) reminder emails via Gmail SMTP from checklist.md | Go | 2026-03-01 |
-| [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and .indus.http files | TypeScript | 2026-02-28 |
+| [INDUS](https://github.com/hari7261/INDUS) | Production-grade interactive terminal for API orchestration, developer tooling, and concurrent workloads | Go | 2026-02-26 |
 | [indus-llm-gateway](https://github.com/hari7261/indus-llm-gateway) | Production-ready LLM gateway — unified OpenAI-compatible API for all providers, embedded dashboard, routing strategies, auth & quotas | Go | 2026-02-28 |
 | [indus-tester](https://github.com/hari7261/indus-tester) | Real performance testing for CI/CD pipelines, staging environments, and load balancer validation | Go | 2026-02-28 |
-| [INDUS](https://github.com/hari7261/INDUS) | Production-grade interactive terminal for API orchestration, developer tooling, and concurrent workloads | Go | 2026-02-26 |
+| [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and .indus.http files | TypeScript | 2026-02-28 |
+| [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI + GitHub Actions automation that sends daily (Mon–Sat) reminder emails via Gmail SMTP from checklist.md | Go | 2026-03-01 |
+
+### 🟣 Other Projects
+
+| Repository | Description | Language | Created |
+|---|---|---|---|
 | [DocAgentLine](https://github.com/hari7261/DocAgentLine) | AI-powered document agent pipeline | Python | 2026-02-25 |
 | [react-native-reanimated-exampleDemos](https://github.com/hari7261/react-native-reanimated-exampleDemos) | Clean, production-ready React Native animation component library built with react-native-reanimated | TypeScript | 2026-02-20 |
 
