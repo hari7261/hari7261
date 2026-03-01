@@ -135,3 +135,29 @@ export const profile = {
 </div>
 
 ---
+
+## 🌍 Open Source Impact
+
+<div align="center">
+
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest_2025-Open_Source_Impact-ff7b72?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://github.com/hari7261/Hacktoberfest-2025)
+[![First OpenSource Contribution](https://img.shields.io/badge/First_OpenSource-Contribution-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hari7261/First-OpenSource-Contribution)
+
+</div>
+
+| Repository | Impact | Language |
+|---|---|---|
+| [Hacktoberfest-2025](https://github.com/hari7261/Hacktoberfest-2025) | Open-source learning space for new contributors to practice with real issues, PRs, and community workflows. | TypeScript |
+| [First-OpenSource-Contribution](https://github.com/hari7261/First-OpenSource-Contribution) | Educational repository that teaches the complete contribution flow: fork, branch, commit, and pull request. | HTML |
+
+---
+
+## 📚 Most Used Languages (Overall Repositories)
+
+<div align="center">
+
+![Hari most used languages graph](./images/language-usage.svg)
+
+</div>
+
+> Data source: GitHub REST API language byte counts across repositories owned by `hari7261` (forks excluded). Graph background is transparent.
