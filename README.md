@@ -90,6 +90,12 @@ export const profile = {
 | [NLP-social-media-Sentiment-Analysis](https://github.com/hari7261/NLP-social-media-Sentiment-Analysis) | AI-driven platform for social-media sentiment and emotional-tone analysis. | Python |
 | [RecruitmentAgent-AI](https://github.com/hari7261/RecruitmentAgent-AI) | AI recruitment workflow tool for resume analysis, automated communication, and interview scheduling. | Python |
 
+### 📦 NPM PACKAGES
+
+| Package | GitHub | npm |
+|---|---|---|
+| ui-sucks | [hari7261/ui-sucks](https://github.com/hari7261/ui-sucks) | [npmjs.com/package/ui-sucks](https://www.npmjs.com/package/ui-sucks) |
+
 ---
 
 <div align="center">
