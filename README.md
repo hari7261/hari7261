@@ -94,7 +94,7 @@ export const profile = {
 
 | Package | GitHub | npm |
 |---|---|---|
-| ui-sucks | [hari7261/ui-sucks](https://github.com/hari7261/ui-sucks) | [npmjs.com/package/ui-sucks](https://www.npmjs.com/package/ui-sucks) |
+| ui-sucks | [![GitHub](https://img.shields.io/badge/GitHub-hari7261%2Fui--sucks-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hari7261/ui-sucks) | [![npm](https://img.shields.io/badge/npm-ui--sucks-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/ui-sucks) |
 
 ---
 
