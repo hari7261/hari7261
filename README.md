@@ -155,3 +155,11 @@ export const profile = {
 |---|---|---|
 | [Hacktoberfest-2025](https://github.com/hari7261/Hacktoberfest-2025) | Open-source learning space for new contributors to practice with real issues, PRs, and community workflows. | TypeScript |
 | [First-OpenSource-Contribution](https://github.com/hari7261/First-OpenSource-Contribution) | Educational repository that teaches the complete contribution flow: fork, branch, commit, and pull request. | HTML |
+
+
+
+<div align="center">
+[![Know more about me](https://img.shields.io/badge/Know%20more%20about%20me-Click%20Here-blue?style=for-the-badge&logo=google)](https://www.google.com/search?q=who+is+hariom+kumar+pandit)
+
+
+</div>
