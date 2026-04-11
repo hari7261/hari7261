@@ -1,4 +1,16 @@
-# Hello It's Hari 👋
+# Hello, it's Hari
+
+<p align="center">
+  <a href="https://github.com/hari7261">
+    <img src="https://img.shields.io/badge/GitHub-hari7261-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <a href="https://www.dreamsbuilder.tech">
+    <img src="https://img.shields.io/badge/Website-dreamsbuilder.tech-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website badge" />
+  </a>
+  <a href="https://linkedin.com/in/hariom-kumar-pandit-2k3">
+    <img src="https://img.shields.io/badge/LinkedIn-Hariom_Kumar_Pandit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+</p>
 
 ```ts
 export const profile = {
@@ -14,7 +26,7 @@ export const profile = {
   techStack: {
     frontend: ["React", "Next.js", "TypeScript"],
     mobile: ["React Native"],
-    backend: ["Flask", "Node.js", "python", "Go-lang"],
+    backend: ["Flask", "Node.js", "Python", "Go"],
     databases: ["PostgreSQL", "MySQL"],
     ai: [
       "LLM applications",
@@ -63,26 +75,43 @@ export const profile = {
 ```
 
 ---
-## 🗂️ AUTOMATION + PREMIUM SOFTWARE
 
-### 🔵 INDUS  - THE PREMIUM CRAFTING OF COOL STUFFS.
-> **INDUS** is a personal software brand — a suite of production-grade developer tools and CLI utilities built in Go, Python & TypeScript.
+## Automation + Premium Software
 
-| Repository | Description | Language |
-|---|---|---|
-| [INDUS](https://github.com/hari7261/INDUS) | Production-grade interactive terminal for API orchestration, developer tooling, and concurrent workloads | Go |
-| [indus-llm-gateway](https://github.com/hari7261/indus-llm-gateway) | Production-ready LLM gateway — unified OpenAI-compatible API for all providers, embedded dashboard, routing strategies, auth & quotas | Go |
-| [indus-tester](https://github.com/hari7261/indus-tester) | Real performance testing for CI/CD pipelines, staging environments, and load balancer validation | Go |
-| [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and .indus.http files | TypeScript |
-| [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI + GitHub Actions automation that sends daily (Mon–Sat) reminder emails via Gmail SMTP from checklist.md | Go |
+### INDUS - premium tooling and developer products
 
-### 🟣 COLLECTIONS OF COMPONENTS, EXPERIMENTS, TREND AND AI+AUTOMATIONS
+> **INDUS** is a personal software brand: a suite of production-grade developer tools and CLI utilities built in Go, Python, and TypeScript.
 
 | Repository | Description | Language |
 |---|---|---|
-| [DocAgentLine](https://github.com/hari7261/DocAgentLine) | AI-powered document agent pipeline | Python |
-| [react-native-reanimated-exampleDemos](https://github.com/hari7261/react-native-reanimated-exampleDemos) | Clean, production-ready React Native animation component library built with react-native-reanimated | TypeScript |
-| [AUTH-CodeFiles](https://github.com/hari7261/AUTH-CodeFiles) | Secure authentication codebase with login, registration, protected routes, and reusable auth utilities. | Python |
+| [INDUS](https://github.com/hari7261/INDUS) | Production-grade interactive terminal for API orchestration, developer tooling, and concurrent workloads. | Go |
+| [indus-llm-gateway](https://github.com/hari7261/indus-llm-gateway) | OpenAI-compatible LLM gateway with provider routing, quotas, authentication, and an embedded dashboard. | Go |
+| [indus-tester](https://github.com/hari7261/indus-tester) | Performance testing tool for CI/CD pipelines, staging environments, and load balancer validation. | Go |
+| [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and `.indus.http` files. | TypeScript |
+| [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI and GitHub Actions automation that sends daily reminder emails from `checklist.md`. | Go |
+
+### AI framework
+
+> **AINative** is my framework-focused monorepo for building LLM-driven interfaces with a client runtime, server adapters, and CLI tooling.
+
+| Project | Description | Language |
+|---|---|---|
+| [ainative](https://github.com/hari7261/ainative) | AI-native frontend framework monorepo for building LLM-driven interfaces with a client runtime, Node server adapter, Python server adapter, CLI, and runnable examples. | TypeScript |
+
+| Package | npm | Version | Downloads |
+|---|---|---|---|
+| `@hari7261/ainative-client` | [npm package](https://www.npmjs.com/package/@hari7261/ainative-client) | ![npm version](https://img.shields.io/npm/v/%40hari7261%2Fainative-client?style=flat-square&logo=npm&label=version) | ![npm downloads](https://img.shields.io/npm/dm/%40hari7261%2Fainative-client?style=flat-square&logo=npm&label=downloads) |
+| `@hari7261/ainative-server-node` | [npm package](https://www.npmjs.com/package/@hari7261/ainative-server-node) | ![npm version](https://img.shields.io/npm/v/%40hari7261%2Fainative-server-node?style=flat-square&logo=npm&label=version) | ![npm downloads](https://img.shields.io/npm/dm/%40hari7261%2Fainative-server-node?style=flat-square&logo=npm&label=downloads) |
+| `@hari7261/ainative-cli` | [npm package](https://www.npmjs.com/package/@hari7261/ainative-cli) | ![npm version](https://img.shields.io/npm/v/%40hari7261%2Fainative-cli?style=flat-square&logo=npm&label=version) | ![npm downloads](https://img.shields.io/npm/dm/%40hari7261%2Fainative-cli?style=flat-square&logo=npm&label=downloads) |
+
+### Collections of experiments, AI products, and automations
+
+| Repository | Description | Language |
+|---|---|---|
+| [SankhyaAI](https://github.com/hari7261/SankhyaAI) | Production-style AI support console with Next.js + FastAPI, authenticated chat, document ingestion, admin observability, and persistent state. | Python |
+| [DocAgentLine](https://github.com/hari7261/DocAgentLine) | AI-powered document agent pipeline. | Python |
+| [react-native-reanimated-exampleDemos](https://github.com/hari7261/react-native-reanimated-exampleDemos) | Production-ready React Native animation demos and reusable motion components built with `react-native-reanimated`. | TypeScript |
+| [AUTH-CodeFiles](https://github.com/hari7261/AUTH-CodeFiles) | Authentication codebase with login, registration, protected routes, and reusable auth utilities. | Python |
 | [GemmaOCR-APP](https://github.com/hari7261/GemmaOCR-APP) | Local OCR and structured text extraction app powered by Gemma-3 vision and Streamlit. | Python |
 | [AgentPodcast-AI](https://github.com/hari7261/AgentPodcast-AI) | Multi-speaker podcast generation system that converts written content into natural-sounding audio. | Python |
 | [World-Time-Traveler](https://github.com/hari7261/World-Time-Traveler) | AI photo transformation app that converts images into historical portraits across multiple eras. | TypeScript |
@@ -90,11 +119,12 @@ export const profile = {
 | [NLP-social-media-Sentiment-Analysis](https://github.com/hari7261/NLP-social-media-Sentiment-Analysis) | AI-driven platform for social-media sentiment and emotional-tone analysis. | Python |
 | [RecruitmentAgent-AI](https://github.com/hari7261/RecruitmentAgent-AI) | AI recruitment workflow tool for resume analysis, automated communication, and interview scheduling. | Python |
 
-### 📦 NPM PACKAGES
+### NPM packages
 
 | Package | GitHub | npm |
 |---|---|---|
-| ui-sucks | [![GitHub](https://img.shields.io/badge/GitHub-hari7261%2Fui--sucks-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hari7261/ui-sucks) | [![npm](https://img.shields.io/badge/npm-ui--sucks-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/ui-sucks) |
+| `ui-sucks` | [![GitHub](https://img.shields.io/badge/GitHub-hari7261%2Fui--sucks-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hari7261/ui-sucks) | [![npm](https://img.shields.io/badge/npm-ui--sucks-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/ui-sucks) |
+| `bento-style` | [![GitHub](https://img.shields.io/badge/GitHub-hari7261%2Fbento--style-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hari7261/bento-style) | [![npm](https://img.shields.io/badge/npm-bento--style-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/bento-style) |
 
 ---
 
@@ -102,17 +132,16 @@ export const profile = {
 
 <a href="https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view" target="_blank">
   <img
-    src="https://img.shields.io/badge/📄%20View%20My%20Resume-7a4f8f?style=for-the-badge&logo=googledrive&logoColor=white"
+    src="https://img.shields.io/badge/View%20My%20Resume-7a4f8f?style=for-the-badge&logo=googledrive&logoColor=white"
     alt="View Resume Button"
   />
 </a>
 
 </div>
 
-
 ---
 
-## 🪪 Badges
+## Badges
 
 <div align="center">
 
@@ -122,7 +151,7 @@ export const profile = {
 
 ---
 
-## 📊 GitHub Activity Graph
+## GitHub Activity Graph
 
 <div align="center">
 
@@ -132,7 +161,7 @@ export const profile = {
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
@@ -142,7 +171,7 @@ export const profile = {
 
 ---
 
-## 🌍 Open Source Impact
+## Open Source Impact
 
 <div align="center">
 
@@ -153,14 +182,11 @@ export const profile = {
 
 | Repository | Impact | Language |
 |---|---|---|
-| [Hacktoberfest-2025](https://github.com/hari7261/Hacktoberfest-2025) | Open-source learning space for new contributors to practice with real issues, PRs, and community workflows. | TypeScript |
-| [First-OpenSource-Contribution](https://github.com/hari7261/First-OpenSource-Contribution) | Educational repository that teaches the complete contribution flow: fork, branch, commit, and pull request. | HTML |
-
-
+| [Hacktoberfest-2025](https://github.com/hari7261/Hacktoberfest-2025) | Open-source learning space for new contributors to practice with real issues, pull requests, and community workflows. | TypeScript |
+| [First-OpenSource-Contribution](https://github.com/hari7261/First-OpenSource-Contribution) | Educational repository that teaches the full contribution flow: fork, branch, commit, and pull request. | HTML |
 
 <div align="center">
-  
-[![Know more about me](https://img.shields.io/badge/Know%20more%20about%20me-Click%20Here-blue?style=for-the-badge&logo=google)](https://www.google.com/search?q=who+is+hariom+kumar+pandit)
 
+[![Know more about me](https://img.shields.io/badge/Know%20more%20about%20me-Click%20Here-blue?style=for-the-badge&logo=google)](https://www.google.com/search?q=who+is+hariom+kumar+pandit)
 
 </div>
