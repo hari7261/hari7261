@@ -12,6 +12,16 @@
   </a>
 </p>
 
+## Badges
+
+<div align="center">
+
+[![Holopin badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
+
+</div>
+
+---
+
 ```ts
 export const profile = {
   name: "Hariom Kumar Pandit",
@@ -136,16 +146,6 @@ export const profile = {
     alt="View Resume Button"
   />
 </a>
-
-</div>
-
----
-
-## Badges
-
-<div align="center">
-
-[![Holopin badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
 
 </div>
 
