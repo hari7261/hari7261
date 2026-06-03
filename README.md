@@ -26,18 +26,18 @@
 export const profile = {
   name: "Hariom Kumar Pandit",
   title: "GenAI Software Engineer",
-  tagline: "Building real AI features for real users.",
+  tagline: "Building real AI Products for real users.",
 
   experience: {
     fullStack: "2+ years",
-    aiAndAgents: "1+ years"
+    AI-Agents: "1+ years"
   },
 
   techStack: {
     frontend: ["React", "Next.js", "TypeScript"],
     mobile: ["React Native"],
     backend: ["Flask", "Node.js", "Python", "Go"],
-    databases: ["PostgreSQL", "MySQL"],
+    databases: ["PostgreSQL", "MySQL, SQLlite, VectorDB"],
     ai: [
       "LLM applications",
       "RAG (Search + LLM)",
@@ -146,16 +146,6 @@ export const profile = {
     alt="View Resume Button"
   />
 </a>
-
-</div>
-
----
-
-## GitHub Activity Graph
-
-<div align="center">
-
-![Hari GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari7261&bg_color=0d0d0d&color=9a6fc4&line=7a4f8f&point=9a6fc4&area=true&hide_border=true)
 
 </div>
 
