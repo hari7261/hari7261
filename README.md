@@ -140,7 +140,7 @@ export const profile = {
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view" target="_blank">
+<a href="https://drive.google.com/file/d/1vDLdEfV5tZro1XpUbAPDUC4s9hvi2u2N/view?usp=sharing" target="_blank">
   <img
     src="https://img.shields.io/badge/View%20My%20Resume-7a4f8f?style=for-the-badge&logo=googledrive&logoColor=white"
     alt="View Resume Button"
