@@ -100,6 +100,17 @@ export const profile = {
 | [indus-http-replay](https://github.com/hari7261/indus-http-replay) | VS Code extension to replay and compare HTTP API requests from raw text, curl, logs, HAR, and `.indus.http` files. | TypeScript |
 | [indus-reminder](https://github.com/hari7261/indus-reminder) | Go CLI and GitHub Actions automation that sends daily reminder emails from `checklist.md`. | Go |
 
+---
+
+### 🔍 Sarvadrik AI
+
+> **Sarvadrik AI** is an AI services platform for businesses, combining intelligent agents, automation, and AI-powered workflows in a single ecosystem.
+
+| Project                               | Description                                                                                                        | Stack                     |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [Sarvadrik AI](https://chat-enterprise-two.vercel.app/) | Build and deploy AI agents, customer automation, knowledge workflows, and business AI solutions from one platform. | Next.js · TypeScript · AI |
+
+
 ### AI framework
 
 > **AINative** is my framework-focused monorepo for building LLM-driven interfaces with a client runtime, server adapters, and CLI tooling.
