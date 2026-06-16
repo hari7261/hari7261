@@ -1,14 +1,13 @@
-# Hello, it's Hari
+<h1 align="center">Namaste, I'm Hariom Kumar Pandit</h1>
 
 <p align="center">
-  <a href="https://github.com/hari7261">
-    <img src="https://img.shields.io/badge/GitHub-hari7261-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
-  <a href="https://www.dreamsbuilder.tech">
-    <img src="https://img.shields.io/badge/Website-dreamsbuilder.tech-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website badge" />
+  <a href="https://hari7261.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d9488" 
+         alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/hariom-kumar-pandit-2k3">
-    <img src="https://img.shields.io/badge/LinkedIn-Hariom_Kumar_Pandit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005E93" 
+         alt="LinkedIn">
   </a>
 </p>
 
