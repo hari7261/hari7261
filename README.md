@@ -150,7 +150,7 @@ export const profile = {
 
 <div align="center">
 
-<a href="https://github.com/hari7261/hari7261/blob/main/HARIOM%20PANDIT.pdf" target="_blank">
+<a href="https://github.com/hari7261/hari7261/blob/main/HARIOM_KUMAR_PANDIT.pdf" target="_blank">
   <img
     src="https://img.shields.io/badge/View%20My%20Resume-7a4f8f?style=for-the-badge&logo=googledrive&logoColor=white"
     alt="View Resume Button"
