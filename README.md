@@ -1,4 +1,6 @@
-<h1 align="center">Namaste, I'm Hariom Kumar Pandit</h1>
+<div align="center">
+<img width="1536" height="1024" alt="ChatGPT Image Jul 10, 2026, 03_27_28 PM" src="https://github.com/user-attachments/assets/259b5aa7-6825-47e6-8178-ff18879783ce" />
+</div>
 
 <p align="center">
   <a href="https://hari7261.vercel.app/">
@@ -18,70 +20,6 @@
 [![Holopin badges](https://holopin.me/hari7261)](https://holopin.io/@hari7261)
 
 </div>
-
----
-
-```ts
-export const profile = {
-  name: "Hariom Kumar Pandit",
-  title: "GenAI Software Engineer",
-  tagline: "Building real AI Products for real users.",
-
-  experience: {
-    fullStack: "2+ years",
-    AI-Agents: "1+ years"
-  },
-
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    mobile: ["React Native"],
-    backend: ["Flask", "Node.js", "Python", "Go"],
-    databases: ["PostgreSQL", "MySQL, SQLlite, VectorDB"],
-    ai: [
-      "LLM applications",
-      "RAG (Search + LLM)",
-      "AI agents",
-      "Multimodal AI"
-    ],
-    infrastructure: ["Docker", "AWS"]
-  },
-
-  focusAreas: [
-    "Build AI features for web and mobile apps",
-    "Connect LLMs with real backend systems",
-    "Design RAG pipelines",
-    "Build agent workflows with tools"
-  ],
-
-  productionPriorities: [
-    "Low-latency responses",
-    "API cost control",
-    "Stable and accurate outputs",
-    "LLM failure handling and retries",
-    "Observability and monitoring",
-    "Safe fallbacks when AI workflows fail"
-  ],
-
-  engineeringBeliefs: [
-    "Simple systems are easier to run and scale",
-    "LLMs can be wrong; always design for that",
-    "Measure quality before adding more prompts or agents"
-  ],
-
-  currentlyBuilding: [
-    "GenAI backend systems",
-    "AI-first web and mobile applications"
-  ],
-
-  links: {
-    github: "https://github.com/hari7261",
-    website: "https://www.dreamsbuilder.tech",
-    linkedin: "https://linkedin.com/in/hariom-kumar-pandit-2k3",
-    resume:
-      "https://drive.google.com/file/d/151z6Ra_WcvJhlsJcrdWBw2QixEkYhq-w/view"
-  }
-} as const;
-```
 
 ---
 
