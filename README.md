@@ -105,6 +105,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hari7261&theme=midnight-purple&hide_border=true)
 
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=hari7261&hide_border=true)
+
 </div>
 
 ---
