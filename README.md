@@ -39,13 +39,13 @@
 
 ---
 
-### 🔍 Sarvadrik AI
+### ✦ AI Products
 
-> **Sarvadrik AI** is an AI services platform for businesses, combining intelligent agents, automation, and AI-powered workflows in a single ecosystem.
-
-| Project                               | Description                                                                                                        | Stack                     |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [Sarvadrik AI](https://chat-enterprise-two.vercel.app/) | Build and deploy AI agents, customer automation, knowledge workflows, and business AI solutions from one platform. | Next.js · TypeScript · AI |
+| Product | Description | Features |
+|:--|:--|:--|
+| [**Sarvadrik AI**](https://chat-enterprise-two.vercel.app/) | AI services platform for building and deploying intelligent business solutions | **AI Agents** · **Customer Automation** · **Knowledge Workflows** · **AI Chat** · **Business Automation** · **Agent Workflows** · **Knowledge Base** · **Enterprise AI** |
+| [**Niyuktii**](https://niyuktii.vercel.app/) | Multi-tenant AI recruitment ATS & Talent CRM for structured hiring operations | **AI Qualification Engine** · **Evidence-Backed Candidate Evaluation** · **Resume Parsing** · **Weighted Skills & Experience Analysis** · **Transparent Candidate Scoring** · **Candidate 360°** · **Recruitment CRM** · **Requisitions & Applicant Pipelines** · **Stage Tracking** · **Role-Based Workflows** · **Interview Scheduling** · **Google Calendar** · **Google Meet** · **Zoom** · **Calendar Conflict Detection** · **Interview Rubrics** · **AI Interview Summaries** · **Audit Logs** · **Activity History** |
+| [**Niyojitaa**](https://niyojitaa.vercel.app/) | Autonomous AI email operations platform for enterprise communication workflows | **Inbox Triage** · **AI Email Drafting** · **Multi-Turn Context** · **Email Classification** · **Thread Intelligence** · **Policy Guardrails** · **DLP & PII Protection** · **Human-in-the-Loop** · **Gmail Integration** · **Microsoft 365** · **Mailbox Synchronization** · **Approval Workflows** · **Audit Logs** · **Enterprise Controls** |
 
 
 ### AI framework
